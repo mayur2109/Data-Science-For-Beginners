@@ -276,6 +276,7 @@ FakesAssemblies/
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
 node_modules/
+quiz-app/dist/
 
 # Visual Studio 6 build log
 *.plg
@@ -308,6 +309,8 @@ paket-files/
 __pycache__/
 *.pyc
 venv/
+.venv/
+.ipynb_checkpoints/
 
 # Cake - Uncomment if you are using it
 # tools/**
@@ -357,4 +360,3 @@ MigrationBackup/
 examples/*.png
 examples/*.jpg
 examples/*.jpeg
-
